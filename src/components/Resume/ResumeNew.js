@@ -40,7 +40,7 @@ function ResumeNew() {
         <Row style={{ justifyContent: "center", position: "relative" }}>
           <Button
             variant="primary"
-            href={pdf}
+             href={pdf}
             target="_blank"
             style={{ maxWidth: "250px" }}
           >
